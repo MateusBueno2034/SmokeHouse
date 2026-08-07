@@ -12,7 +12,7 @@ Deixe preparado:
 
 ## 📸 Preview
 
-Adicione aqui uma screenshot do site quando disponível.
+![SmokeHouse](image.png)
 
 ## 🛠️ Tecnologias utilizadas
 
