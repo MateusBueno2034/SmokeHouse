@@ -8,7 +8,7 @@ O projeto apresenta cardápio, ofertas, informações sobre a hamburgueria, aval
 
 Deixe preparado:
 
-[Ver Projeto Online](LINK_GITHUB_PAGES)
+[Ver Projeto Online](https://mateusbueno2034.github.io/SmokeHouse/)
 
 ## 📸 Preview
 
